@@ -5,11 +5,12 @@
 
 - 🔭 I’m currently working on [-HTML-CSS-JAVASCRIPT-100MINI-PROJECTS](https://github.com/Alexjav129/-HTML-CSS-JAVASCRIPT-100MINI-PROJECTS.git)
 
-- ⚡ Fun fact **I love triathlon 🏃‍♂️ 🚴‍♂️ 🏊‍♂️**
 
 - 🌱 I’m currently learning **** React ****
 
 - 💬 Ask me about **HTML, CSS, JS**
+
+- ⚡ Fun fact **I love triathlon 🏃‍♂️ 🚴‍♂️ 🏊‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
