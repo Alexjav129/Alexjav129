@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alexjav129](https://github.com/Alexjav129)
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP, SASS, JavaScript, FIGMA, GIT, Github, SEO, Responsive Web Design**
+- 💬 Ask me about **HTML, CSS, BOOTSTRAP, SASS, JavaScript, FIGMA, GIT, Github, SEO, Responsive Web Design, Npm**
 
 - 📫 How to reach me **Linkedin**
 
