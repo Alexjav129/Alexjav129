@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Linkedin**
 
-- ⚡ Fun fact **I love triathlon 🏃‍♂️ 🚴‍♂️ 🏊‍♂️ but I even love more learning software and new emerging technologies 
+- ⚡ Fun fact **I love triathlon 🏃‍♂️ 🚴‍♂️ 🏊‍♂️ but I'm even more passionate about learning software and new emerging technologies**
   
 - 🏃‍♂️ I'm a Half Marathon Runner (Paris Half Marathon 2022) + 3 others Personal Best 1h 48min**
 
