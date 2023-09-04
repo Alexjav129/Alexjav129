@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [-HTML-CSS-JAVASCRIPT-100MINI-PROJECTS](https://github.com/Alexjav129/-HTML-CSS-JAVASCRIPT-100MINI-PROJECTS.git)
 
-- 🌱 I’m currently learning ****** React ******
+- 🌱 I’m currently learning ****** SQL & React ******
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alexjav129](https://github.com/Alexjav129)
 
