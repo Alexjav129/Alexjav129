@@ -12,7 +12,6 @@ const Alejandro = {
   languages: [English, Spanish, French]
 }
 ```
-#
 
 - 🔭 I’m currently working on [WebDevProject TopSport](https://github.com/Alexjav129/ProyectoWebDev-git)
 
