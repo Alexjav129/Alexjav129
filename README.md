@@ -48,7 +48,6 @@
 
 <img align="left" alt="postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;"/>
 
-<img align="left" alt="postman" width="40px" src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/24/external-terminal-development-royyan-wijaya-detailed-outline-royyan-wijaya.png" style="padding-right:10px;"/>
 
 
     
