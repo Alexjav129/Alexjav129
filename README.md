@@ -5,6 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexjav129&label=Profile%20views&color=0e75b6&style=flat" alt="alexjav129" /> </p>
 
+```js
+const Alejandro = {
+  country: [Mexico],
+  livingIn: [Mexico City],
+  languages: [English, Spanish, French]
+}
+```
+
 - 🔭 I’m currently working on [WebDevProject TopSport](https://github.com/Alexjav129/ProyectoWebDev-git)
 
 - 🌱 I’m currently learning ****** SQL & React ******
