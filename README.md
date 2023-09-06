@@ -48,6 +48,8 @@
 
 <img align="left" alt="postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;"/>
 
+<img align="left" alt="postman" width="40px" src="https://icons8.com/icon/RFhLu1MhmM52/terminal" style="padding-right:10px;"/>
+
 
     
   
