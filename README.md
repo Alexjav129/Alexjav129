@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://linkedin.com/in/alejandro-j-bautista" target="blank"> <img align="center" alt="alejandro-j-bautista" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"  /></a>
+<a href="https://linkedin.com/in/alejandro-j-bautista" target="blank"> <img align="center" alt="alejandro-j-bautista" width="400px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"  /></a>
 
 </p>
 
