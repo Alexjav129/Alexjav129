@@ -58,7 +58,9 @@
   
   </p>
 
+<p align="left">
 Evolving one line of code at a time ⚙️"
+</p>
 
 <br />
 <br />
