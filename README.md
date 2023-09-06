@@ -55,8 +55,7 @@
 <img align="left" alt="salesforce" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 
 
-  
-  </p>
+</p>
 
 <p align="left">
 Evolving one line of code at a time ⚙️"
