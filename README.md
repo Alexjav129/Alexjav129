@@ -57,9 +57,7 @@
 
 </p>
 
-<p align="left">
-Evolving one line of code at a time ⚙️"
-</p>
+
 
 <br />
 <br />
@@ -70,5 +68,7 @@ Evolving one line of code at a time ⚙️"
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjav129&show_icons=true&locale=en&layout=compact" alt="alexjav129" />
 </p>
 
-
+<p align="left">
+Evolving one line of code at a time ⚙️"
+</p>
 
