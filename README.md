@@ -34,7 +34,7 @@
 
 <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  style="padding-right:10px;" />
 
-<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="40px" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="padding-right:10px;" />
 
 <img align="left" alt="sass" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  style="padding-right:10px;"/>
 
