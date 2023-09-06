@@ -46,10 +46,12 @@
 
 <img align="left" alt="postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;"/>
    
-   
-   
+    
   
   </p>
+
+<br />
+<br />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjav129&show_icons=true&locale=en&layout=compact" alt="alexjav129" /></p>
