@@ -70,7 +70,6 @@ const Alejandro = {
 
 <br />
 <br />
-<br />
 
 #
 
