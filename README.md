@@ -13,7 +13,7 @@ const Alejandro = {
   hardWorker: true,
   problemSolver: true
 
-}
+};
 ```
 
 - 🔭 I’m currently working on [WebDevProject TopSport](https://github.com/Alexjav129/ProyectoWebDev-git)
