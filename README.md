@@ -9,7 +9,10 @@
 const Alejandro = {
   country: [Mexico],
   livingIn: [Mexico City],
-  languages: [English, Spanish, French]
+  languages: [English, Spanish, French],
+  hardWorker: true,
+  problemSolver: true
+
 }
 ```
 
