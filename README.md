@@ -7,10 +7,10 @@
 
 ```js
 const Alejandro = {
-  country: [Mexico],
-  livingIn: [Mexico City],
+  country: "Mexico",
+  livingIn: "Mexico City",
   hardWorker: true,
-  languages: [English, Spanish, French],
+  languages: ["English", "Spanish", "French"],
   problemSolver: true
 
 };
