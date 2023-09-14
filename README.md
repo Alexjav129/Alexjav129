@@ -80,7 +80,7 @@ const Alejandro = {
 <h3 align="left"> I’m currently learning</h3>
 <p align="left"> 
 
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="JavaScript" width="40px" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">" style="padding-right:10px;"/>
 
 </p>
 
