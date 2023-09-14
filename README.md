@@ -80,7 +80,9 @@ const Alejandro = {
 <h3 align="left"> I’m currently learning</h3>
 <p align="left"> 
 
-<img align="left" alt="postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;"/>
+<img align="left" alt="postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
+
+<img align="left" alt="postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
 
 </p>
 
