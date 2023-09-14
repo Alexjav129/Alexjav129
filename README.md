@@ -77,7 +77,7 @@ const Alejandro = {
 <br />
 
 #
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> I’m currently learning</h3>
 <p align="left"> 
 
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
@@ -87,6 +87,8 @@ const Alejandro = {
 <br />
 <br />
 <br />
+
+#
 
 <br />
 
