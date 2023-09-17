@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Bautista</h1>
-<h3 align="center">A passionate frontend developer from 🇲🇽</h3>
+<h3 align="center">A passionate front-end developer from 🇲🇽</h3>
 <h5 align="center">Evolving one line of code at a time ⚙️</h5>
 
 
