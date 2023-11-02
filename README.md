@@ -22,7 +22,7 @@ const Alejandro = {
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alexjav129](https://github.com/Alexjav129)
 
-- 💬 Ask me about **HTML, CSS, CSS-Flexbox, CSS-Grid, BOOTSTRAP, SASS, Tailwind, JavaScript, Vercel, FIGMA, GIT, Github, SEO, BEM, Responsive Web Design, Project Management Software, Agile Methodologies, Postman, Npm**
+- 💬 Ask me about **HTML, CSS, CSS-Flexbox, CSS-Grid, BOOTSTRAP, SASS, Tailwind, JavaScript, Vercel, FIGMA, GIT, Github, SEO, BEM, Responsive Web Design, Project Management Software, Agile Methodologies, Scrum, Postman, Npm**
 
 - 📫 How to reach me **Linkedin**
 
