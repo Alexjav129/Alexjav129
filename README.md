@@ -40,7 +40,7 @@ const Alejandro = {
 </p>
 
 
-# <h3 align="left">Languages and FrameWorks</h3>
+# <h3 align="left">Languages and frameworks</h3>
 <p align="left"> 
 
   <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
@@ -60,8 +60,7 @@ const Alejandro = {
 </p>
 <br />
 
-#
-<h3 align="left">Technologies</h3>
+# <h3 align="left">Technologies</h3>
 <p align="left"> 
   
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -75,6 +74,15 @@ const Alejandro = {
 <img align="left" alt="salesforce" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" style="padding-right:10px;" />
 <img align="left" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 
+</p>
+<br />
+
+# <h3 align="left">Currently learning</h3>
+<p align="left"> 
+
+<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  style="padding-right:10px;" />
+<img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+  
 </p>
 
 
