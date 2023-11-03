@@ -52,15 +52,10 @@ const Alejandro = {
 
   ![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
   
-  
-
 </p>
 
-
 <br />
 <br />
-
-
 
 #
 <h3 align="left">Technologies</h3>
