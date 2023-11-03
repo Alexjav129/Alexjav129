@@ -37,8 +37,6 @@ const Alejandro = {
   
 <a href="https://linkedin.com/in/alejandro-j-bautista" target="blank"> <img align="center" alt="Alex Linkedin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  /></a>
 
-</p>
-
 
 # <h3 align="left">Languages and frameworks</h3>
 <p align="left"> 
