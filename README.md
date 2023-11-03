@@ -41,13 +41,28 @@ const Alejandro = {
 
 
 #
+<h3 align="left">Languages and FrameWorks</h3>
+<p align="left"> 
+
+  <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+
+</p>
+
+
+<br />
+<br />
+<br />
+
+
+
+#
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="salesforce" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="padding-right:10px;" />
+<img align="left" alt="chrome" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  style="padding-right:10px;" />
 
@@ -59,7 +74,7 @@ const Alejandro = {
 
 <img align="left" alt="sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/>
 
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+
 
 <img align="left" alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;"/>
 
@@ -86,6 +101,8 @@ const Alejandro = {
 <br />
 
 #
+
+
 
 <br />
 
