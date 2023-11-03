@@ -76,6 +76,7 @@ const Alejandro = {
 <img align="left" alt="salesforce" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 
 ![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
+![Salesforce](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg)
 
 
 </p>
