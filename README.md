@@ -40,8 +40,7 @@ const Alejandro = {
 </p>
 
 
-#
-<h3 align="left">Languages and FrameWorks</h3>
+# <h3 align="left">Languages and FrameWorks</h3>
 <p align="left"> 
 
   <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
@@ -51,8 +50,7 @@ const Alejandro = {
 </p>
 <br />
 
-#
-<h3 align="left">Styling and design tech</h3>
+# <h3 align="left">Styling and design tech</h3>
 <p align="left"> 
 
 <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  style="padding-right:10px;" />
