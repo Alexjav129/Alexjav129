@@ -46,6 +46,13 @@ const Alejandro = {
 
   <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 
+  ![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
+
+  <img align="left" alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
+
+  <img align="left" alt="tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/>
+  
+
 </p>
 
 
@@ -56,7 +63,7 @@ const Alejandro = {
 
 
 #
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies</h3>
 <p align="left"> 
   
 
@@ -68,13 +75,7 @@ const Alejandro = {
 
 <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  style="padding-right:10px;" />
 
-<img align="left" alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/>
-
-<img align="left" alt="sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/>
-
-
 
 <img align="left" alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;"/>
 
@@ -90,7 +91,7 @@ const Alejandro = {
 
 <img align="left" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 
-![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
+
 
 
 </p>
