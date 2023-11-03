@@ -45,6 +45,7 @@ const Alejandro = {
 <p align="left"> 
 
   <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+  
   ![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
   
 </p>
