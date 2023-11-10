@@ -70,6 +70,16 @@ const Alejandro = {
 <br />
 <br />
 
+<p>
+Operating Systems: <br/>
+<img src="images/apple.svg" style='vertical-align:middle' aria-label="Apple macOS">
+<img src="images/linux.svg" style='vertical-align:middle' aria-label="Linux">
+<img src="images/windows.svg" style='vertical-align:middle' aria-label="Microsoft Windows">
+</p>
+
+<br />
+<br />
+
 # <h3 align="left">Currently learning</h3>
 <p align="left"> 
 
