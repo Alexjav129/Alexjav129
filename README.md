@@ -70,14 +70,16 @@ const Alejandro = {
 <br />
 <br />
 
-<p>
-Operating Systems: <br/>
+# <h3 align="left">Operating Systems</h3>
+<p align="left"> 
+
 <img align="left" alt="Apple" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
-</p>
 
+</p>
 <br />
 <br />
+
 
 # <h3 align="left">Currently learning</h3>
 <p align="left"> 
