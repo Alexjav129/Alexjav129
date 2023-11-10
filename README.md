@@ -72,9 +72,8 @@ const Alejandro = {
 
 <p>
 Operating Systems: <br/>
-<img src="images/apple.svg" style='vertical-align:middle' aria-label="Apple macOS">
-<img src="images/linux.svg" style='vertical-align:middle' aria-label="Linux">
-<img src="images/windows.svg" style='vertical-align:middle' aria-label="Microsoft Windows">
+<img align="left" alt="Apple" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 </p>
 
 <br />
