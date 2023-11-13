@@ -16,7 +16,7 @@ const Alejandro = {
 };
 ```
 
-- 🔭 I’m currently working on [WebDevProject TopSport](https://github.com/Alexjav129/ProyectoWebDev-git) and [Shopping-cart-js](https://github.com/Alexjav129/Shopping-cart-js)
+- 🔭 I’m currently working on [WebDevProject TopSport](https://github.com/Alexjav129/ProyectoWebDev-git)
 
 - 🌱 I’m currently learning ****** SQL, React & Astro ******
 
