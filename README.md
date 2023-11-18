@@ -92,10 +92,6 @@ const Alejandro = {
 
 <img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  style="padding-right:10px;" />
 <img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-
-![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
-
-
 [![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
 
 </p>
