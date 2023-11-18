@@ -71,6 +71,9 @@ const Alejandro = {
 
 
 <br><br><br>
+<img align="left" alt="vite" width="40px" src="https://skillicons.dev/icons?i=vite" style="padding-right:10px;" />
+<img align="left" alt="vercel" width="40px" src="https://skillicons.dev/icons?i=vercel" style="padding-right:10px;" />
+
 
 <img src="https://skillicons.dev/icons?i=vite" height="40px" alt="vite"  />
 <img src="https://skillicons.dev/icons?i=vercel" height="40px" alt="vite"  />
