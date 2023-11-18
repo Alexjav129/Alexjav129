@@ -114,6 +114,10 @@ const Alejandro = {
 
 <img align="left" alt="aws" width="40px" src="https://skillicons.dev/icons?i=aws" style="padding-right:10px;"/>
 <img align="left" alt="linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="docker" width="40px" src="https://skillicons.dev/icons?i=docker" style="padding-right:10px;"/>
+<img align="left" alt="express" width="40px" src="https://skillicons.dev/icons?i=express" style="padding-right:10px;"/>
+<img align="left" alt="express" width="40px" src="https://skillicons.dev/icons?i=express" style="padding-right:10px;"/>
+<img align="left" alt="graphql" width="40px" src="https://skillicons.dev/icons?i=graphql" style="padding-right:10px;"/>
   
 </p>
 
