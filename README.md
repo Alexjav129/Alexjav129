@@ -69,7 +69,6 @@ const Alejandro = {
 <img align="left" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="markdown" width="40px" src="https://skillicons.dev/icons?i=md" style="padding-right:10px;" />
 
-[![Markdown](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 
 <br><br><br>
 
@@ -94,6 +93,7 @@ const Alejandro = {
 
 <img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  style="padding-right:10px;" />
 <img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Astro" width="40px" src="https://skillicons.dev/icons?i=astro" style="padding-right:10px;" />
 
 [![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
 
