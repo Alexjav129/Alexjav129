@@ -74,7 +74,7 @@ const Alejandro = {
 <img src="https://skillicons.dev/icons?i=vite" height="40px" alt="vite"  />
 
 </p>
-<br />
+
 
 # <h3 align="left">Operating Systems</h3>
 <p align="left"> 
