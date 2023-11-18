@@ -96,7 +96,6 @@ const Alejandro = {
 [![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
 
 </p>
-<br />
 
 # <h3 align="left">Would like to learn</h3>
 <p align="left"> 
