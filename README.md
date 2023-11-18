@@ -69,6 +69,8 @@ const Alejandro = {
 <img align="left" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
 
+[![Astro](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
+
 <br><br><br>
 
 <img src="https://skillicons.dev/icons?i=vite" height="40px" alt="vite"  />
