@@ -96,6 +96,7 @@ const Alejandro = {
 <img align="left" alt="Astro" width="40px" src="https://skillicons.dev/icons?i=astro" style="padding-right:10px;" />
 
 </p>
+<br />
 
 # <h3 align="left">Would like to learn</h3>
 <p align="left"> 
