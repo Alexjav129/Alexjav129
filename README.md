@@ -28,7 +28,7 @@ const Alejandro = {
 
 - ⚡ Fun fact **I love Triathlon 🏃‍♂️ 🚴‍♂️ 🏊‍♂️, Padel and Tennis 🎾 but I'm even more passionate about learning Software and new Emerging Technologies**
   
-- 🏃‍♂️ I'm a Half Marathon Runner (Paris Half Marathon 2022) + 3 others Personal Best 1h 48min**
+- 🏃‍♂️ I'm a Half Marathon Runner (Paris Half Marathon 2022) + 3 others **Personal Best 1h 48min**
 
 
 # <h3 align="left">Languages and frameworks</h3>
