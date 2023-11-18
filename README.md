@@ -18,7 +18,7 @@ const Alejandro = {
 
 - 🔭 I’m currently working on [WebDevProject TopSport](https://github.com/Alexjav129/ProyectoWebDev-git)
 
-- 🌱 I’m currently learning ****** SQL, React & Astro ******
+- 🌱 I’m currently learning ****** React, SQL & Astro ******
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alexjav129](https://github.com/Alexjav129)
 
