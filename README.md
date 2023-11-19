@@ -121,6 +121,7 @@ const Alejandro = {
 <br><br><br>
 
 <img align="left" alt="kubernetes" width="40px" src="https://skillicons.dev/icons?i=kubernetes" style="padding-right:10px;"/>
+<img align="left" alt="jenkins" width="40px" src="https://skillicons.dev/icons?i=jenkins" style="padding-right:10px;"/>
   
 </p>
 
