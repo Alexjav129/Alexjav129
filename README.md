@@ -124,6 +124,11 @@ const Alejandro = {
 <img align="left" alt="jenkins" width="40px" src="https://skillicons.dev/icons?i=jenkins" style="padding-right:10px;"/>
 <img align="left" alt="prisma" width="40px" src="https://skillicons.dev/icons?i=prisma" style="padding-right:10px;"/>
 <img align="left" alt="prisma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" style="padding-right:10px;"/>
+
+<br><br><br>
+
+<img align="left" alt="prisma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding-right:10px;"/>
+
   
 </p>
 
