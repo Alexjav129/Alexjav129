@@ -96,6 +96,7 @@ const Alejandro = {
 <img align="left" alt="React" width="40px" src="https://skillicons.dev/icons?i=react"  style="padding-right:10px;" />
 <img align="left" alt="SQL" width="40px" src="https://skillicons.dev/icons?i=postgresql" style="padding-right:10px;" />
 <img align="left" alt="Astro" width="40px" src="https://skillicons.dev/icons?i=astro" style="padding-right:10px;" />
+<img align="left" alt="firebase" width="40px" src="https://skillicons.dev/icons?i=firebase" style="padding-right:10px;"/>
 
 </p>
 <br />
@@ -108,7 +109,7 @@ const Alejandro = {
 <img align="left" alt="typescript" width="40px" src="https://skillicons.dev/icons?i=ts"  style="padding-right:10px;" />
 <img align="left" alt="vue" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="mongodb" width="40px" src="https://skillicons.dev/icons?i=mongodb" style="padding-right:10px;"/>
-<img align="left" alt="firebase" width="40px" src="https://skillicons.dev/icons?i=firebase" style="padding-right:10px;"/>
+<img align="left" alt="prisma" width="40px" src="https://skillicons.dev/icons?i=prisma" style="padding-right:10px;"/>
 
 <br><br><br>
 
@@ -122,9 +123,8 @@ const Alejandro = {
 
 <img align="left" alt="kubernetes" width="40px" src="https://skillicons.dev/icons?i=kubernetes" style="padding-right:10px;"/>
 <img align="left" alt="jenkins" width="40px" src="https://skillicons.dev/icons?i=jenkins" style="padding-right:10px;"/>
-<img align="left" alt="prisma" width="40px" src="https://skillicons.dev/icons?i=prisma" style="padding-right:10px;"/>
-<img align="left" alt="prisma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="prisma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="sourcetree" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="bitbucket" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding-right:10px;"/>
 
   
 </p>
