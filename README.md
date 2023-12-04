@@ -94,6 +94,7 @@ const Alejandro = {
 <p align="left"> 
 
 <img align="left" alt="React" width="40px" src="https://skillicons.dev/icons?i=react"  style="padding-right:10px;" />
+<img align="left" alt="React" width="40px" src="https://skillicons.dev/icons?i=nextjs"  style="padding-right:10px;" />
 <img align="left" alt="SQL" width="40px" src="https://skillicons.dev/icons?i=postgresql" style="padding-right:10px;" />
 <img align="left" alt="Astro" width="40px" src="https://skillicons.dev/icons?i=astro" style="padding-right:10px;" />
 <img align="left" alt="firebase" width="40px" src="https://skillicons.dev/icons?i=firebase" style="padding-right:10px;"/>
