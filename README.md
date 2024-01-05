@@ -48,9 +48,6 @@ const Alejandro = {
 <img align="left" alt="bootstrap" width="40px" src="https://skillicons.dev/icons?i=bootstrap" style="padding-right:10px;" />
 <img align="left" alt="sass" width="40px" src="https://skillicons.dev/icons?i=sass" style="padding-right:10px;" />
 <img align="left" alt="tailwind" width="40px" src="https://skillicons.dev/icons?i=tailwind" style="padding-right:10px;" />
-<img align="left" alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-<img align="left" alt="sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/>
   
 </p>
 <br />
