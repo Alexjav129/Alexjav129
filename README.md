@@ -34,6 +34,9 @@ const Alejandro = {
 # <h3 align="left">Languages and frameworks</h3>
 <p align="left"> 
 
+<img align="left" alt="html" width="40px" src="https://skillicons.dev/icons?i=html" style="padding-right:10px;" />
+<img align="left" alt="css" width="40px" src="https://skillicons.dev/icons?i=css" style="padding-right:10px;" />
+<img align="left" alt="js" width="40px" src="https://skillicons.dev/icons?i=js" style="padding-right:10px;" />
 <img align="left" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  style="padding-right:10px;" />
 <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
