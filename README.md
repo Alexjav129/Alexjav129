@@ -58,6 +58,7 @@ const Alejandro = {
 <img align="left" alt="Visual Studio Code" width="40px" src="https://skillicons.dev/icons?i=vscode" style="padding-right:10px;" />
 <img align="left" alt="chrome" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" style="padding-right:10px;"/>
+<img align="left" alt="git" width="40px" src="https://skillicons.dev/icons?i=git" style="padding-right:10px;"/>
 <img align="left" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="40px" src="https://skillicons.dev/icons?i=github" style="padding-right:10px;" />
 
