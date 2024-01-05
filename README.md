@@ -110,7 +110,9 @@ const Alejandro = {
 <p align="left"> 
 
 <img align="left" alt="nodejs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  style="padding-right:10px;" />
+<img align="left" alt="nodejs" width="40px" src="https://skillicons.dev/icons?i=nodejs" style="padding-right:10px;"/>
 <img align="left" alt="typescript" width="40px" src="https://skillicons.dev/icons?i=ts"  style="padding-right:10px;" />
+<img align="left" alt="vue" width="40px" src="https://skillicons.dev/icons?i=vue" style="padding-right:10px;"/>
 <img align="left" alt="vue" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="mongodb" width="40px" src="https://skillicons.dev/icons?i=mongodb" style="padding-right:10px;"/>
 <img align="left" alt="prisma" width="40px" src="https://skillicons.dev/icons?i=prisma" style="padding-right:10px;"/>
