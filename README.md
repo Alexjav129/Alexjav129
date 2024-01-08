@@ -100,9 +100,6 @@ const Alejandro = {
 <img align="left" alt="Astro" width="40px" src="https://skillicons.dev/icons?i=astro" style="padding-right:10px;" />
 <img align="left" alt="supabase" width="40px" src="https://skillicons.dev/icons?i=supabase" style="padding-right:10px;"/>
 
-<br><br><br>
-
-
 
 </p>
 <br />
