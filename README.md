@@ -72,6 +72,7 @@ const Alejandro = {
 <br><br><br>
 <img align="left" alt="vite" width="40px" src="https://skillicons.dev/icons?i=vite" style="padding-right:10px;" />
 <img align="left" alt="vercel" width="40px" src="https://skillicons.dev/icons?i=vercel" style="padding-right:10px;" />
+<img align="left" alt="firebase" width="40px" src="https://skillicons.dev/icons?i=firebase" style="padding-right:10px;"/>
 
 
 </p>
@@ -96,11 +97,11 @@ const Alejandro = {
 <img align="left" alt="React" width="40px" src="https://skillicons.dev/icons?i=nextjs"  style="padding-right:10px;" />
 <img align="left" alt="SQL" width="40px" src="https://skillicons.dev/icons?i=postgresql" style="padding-right:10px;" />
 <img align="left" alt="Astro" width="40px" src="https://skillicons.dev/icons?i=astro" style="padding-right:10px;" />
-<img align="left" alt="firebase" width="40px" src="https://skillicons.dev/icons?i=firebase" style="padding-right:10px;"/>
+<img align="left" alt="supabase" width="40px" src="https://skillicons.dev/icons?i=supabase" style="padding-right:10px;"/>
 
 <br><br><br>
 
-<img align="left" alt="supabase" width="40px" src="https://skillicons.dev/icons?i=supabase" style="padding-right:10px;"/>
+
 
 </p>
 <br />
