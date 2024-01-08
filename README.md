@@ -18,7 +18,7 @@ const Alejandro = {
 
 - 🔭 I’m currently working on [Aura an E-Commerce Site](https://github.com/Alexjav129/PreEntrega2-Bautista) using React, Vite, Firebase and SASS
 
-- 🌱 I’m currently learning ******React, Next.js, Supabase, Postgre & Astro******
+- 🌱 I’m currently learning and mastering ******React.js, Next.js, Supabase, PostgreSQL, and Astro******
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alexjav129](https://github.com/Alexjav129)
 
