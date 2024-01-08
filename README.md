@@ -16,13 +16,13 @@ const Alejandro = {
 };
 ```
 
-- 🔭 I’m currently working on [WebDevProject TopSport](https://github.com/Alexjav129/ProyectoWebDev-git) and [PandiStore-The best Candy Store](https://github.com/Alexjav129/PandiStore-Bautista)
+- 🔭 I’m currently working on [Aura an E-Commerce Site](https://github.com/Alexjav129/PreEntrega2-Bautista) using React, Vite, Firebase and SASS
 
-- 🌱 I’m currently learning ******React, SQL & Astro******
+- 🌱 I’m currently learning ******React, Next.js, Supabase, Postgre & Astro******
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alexjav129](https://github.com/Alexjav129)
 
-- 💬 Ask me about **HTML, CSS, CSS-Flexbox, CSS-Grid, BOOTSTRAP, SASS, Tailwind, JavaScript, Vercel, FIGMA, GIT, Github, SEO, BEM, Responsive Web Design, Project Management Software, Agile Methodologies, Scrum, Postman, Npm**
+- 💬 Ask me about **React, Firebase, HTML, CSS, CSS-Flexbox, CSS-Grid, BOOTSTRAP, SASS, Tailwind, JavaScript, Vercel, FIGMA, GIT, Github, SEO, BEM, Responsive Web Design, Project Management Software, Agile Methodologies, Scrum, Postman, Npm**
 
 - 📫 How to reach me **Linkedin**
 
