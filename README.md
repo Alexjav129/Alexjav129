@@ -22,7 +22,9 @@ const Alejandro = {
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alexjav129](https://github.com/Alexjav129)
 
-- 💬 Ask me about **React, Firebase, HTML, CSS, CSS-Flexbox, CSS-Grid, BOOTSTRAP, SASS, Tailwind, JavaScript, Vercel, FIGMA, GIT, Github, SEO, BEM, Responsive Web Design, Project Management Software, Agile Methodologies, Scrum, Postman, Npm**
+- 🏅 Favorite Tech Stack:  ***React.js, Tailwind, Firebase, JavaScript, Vercel***
+
+- 💬 Ask me about **React, Tailwind, Firebase, JavaScript, HTML, CSS, CSS-Flexbox, CSS-Grid, BOOTSTRAP, SASS,  Vercel, FIGMA, GIT, Github, SEO, BEM, Responsive Web Design, Project Management Software, Agile Methodologies, Scrum, Postman, Npm**
 
 - 📫 How to reach me **Linkedin**
 
