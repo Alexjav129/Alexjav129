@@ -16,7 +16,7 @@ const Alejandro = {
 };
 ```
 
-- 🔭 I’m currently working on [Aura, an E-Commerce Site,](https://github.com/Alexjav129/PreEntrega2-Bautista) using React, Vite, Firebase and SASS
+- 🔭 I’m currently working on [Aura, an E-Commerce Site, ](https://github.com/Alexjav129/PreEntrega2-Bautista) using React, Vite, Firebase and SASS
 
 - 🌱 I’m currently learning and mastering ******React.js, Next.js, Supabase, PostgreSQL, and Astro******
 
