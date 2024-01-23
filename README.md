@@ -133,6 +133,7 @@ const Alejandro = {
 <img align="left" alt="github actions" width="40px" src="https://skillicons.dev/icons?i=githubactions" style="padding-right:10px;"/>
 
 <br><br><br>
+
 <img align="left" alt="idea" width="40px" src="https://skillicons.dev/icons?i=idea" style="padding-right:10px;"/>
 <img align="left" alt="java" width="40px" src="https://skillicons.dev/icons?i=java" style="padding-right:10px;"/>
 <img align="left" alt="spring" width="40px" src="https://skillicons.dev/icons?i=spring" style="padding-right:10px;"/>
