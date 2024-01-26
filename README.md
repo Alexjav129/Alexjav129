@@ -111,10 +111,10 @@ const Alejandro = {
 <p align="left"> 
 
 <img align="left" alt="typescript" width="40px" src="https://skillicons.dev/icons?i=ts"  style="padding-right:10px;" />
-<img align="left" alt="astro" width="40px" src="https://skillicons.dev/icons?i=astro" style="padding-right:10px;" />
 <img align="left" alt="spring" width="40px" src="https://skillicons.dev/icons?i=spring" style="padding-right:10px;"/>
 <img align="left" alt="supabase" width="40px" src="https://skillicons.dev/icons?i=supabase" style="padding-right:10px;"/>
 <img align="left" alt="aws" width="40px" src="https://skillicons.dev/icons?i=aws" style="padding-right:10px;"/>
+<img align="left" alt="astro" width="40px" src="https://skillicons.dev/icons?i=astro" style="padding-right:10px;" />
 
 <br><br><br>
 
