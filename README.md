@@ -101,7 +101,7 @@ const Alejandro = {
 <img align="left" alt="java" width="40px" src="https://skillicons.dev/icons?i=java" style="padding-right:10px;"/>
 <img align="left" alt="Next" width="40px" src="https://skillicons.dev/icons?i=nextjs"  style="padding-right:10px;" />
 <img align="left" alt="Postgres" width="40px" src="https://skillicons.dev/icons?i=postgresql" style="padding-right:10px;" />
-
+<img align="left" alt="groovy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" style="padding-right:10px;" />
 
 </p>
 <br />
