@@ -98,10 +98,9 @@ const Alejandro = {
 # <h3 align="left">Currently learning</h3>
 <p align="left"> 
 
-<img align="left" alt="java" width="40px" src="https://skillicons.dev/icons?i=java" style="padding-right:10px;"/>
 <img align="left" alt="Next" width="40px" src="https://skillicons.dev/icons?i=nextjs"  style="padding-right:10px;" />
 <img align="left" alt="Postgres" width="40px" src="https://skillicons.dev/icons?i=postgresql" style="padding-right:10px;" />
-<img align="left" alt="groovy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" style="padding-right:10px;" />
+
 
 </p>
 <br />
@@ -120,9 +119,10 @@ const Alejandro = {
 
 <img align="left" alt="nodejs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  style="padding-right:10px;" />
 <img align="left" alt="express" width="40px" src="https://skillicons.dev/icons?i=express" style="padding-right:10px;"/>
+<img align="left" alt="java" width="40px" src="https://skillicons.dev/icons?i=java" style="padding-right:10px;"/>
 <img align="left" alt="docker" width="40px" src="https://skillicons.dev/icons?i=docker" style="padding-right:10px;"/>
 <img align="left" alt="kubernetes" width="40px" src="https://skillicons.dev/icons?i=kubernetes" style="padding-right:10px;"/>
-<img align="left" alt="graphql" width="40px" src="https://skillicons.dev/icons?i=graphql" style="padding-right:10px;"/>
+
 
 <br><br><br>
 
@@ -132,7 +132,9 @@ const Alejandro = {
 <img align="left" alt="linux" width="40px" src="https://skillicons.dev/icons?i=linux" style="padding-right:10px;"/>
 <img align="left" alt="github actions" width="40px" src="https://skillicons.dev/icons?i=githubactions" style="padding-right:10px;"/>
 
-
+<br><br><br>
+<img align="left" alt="graphql" width="40px" src="https://skillicons.dev/icons?i=graphql" style="padding-right:10px;"/>
+<img align="left" alt="groovy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" style="padding-right:10px;" />
 
   
 </p>
