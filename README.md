@@ -133,10 +133,10 @@ const Alejandro = {
 <img align="left" alt="vue" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="prisma" width="40px" src="https://skillicons.dev/icons?i=prisma" style="padding-right:10px;"/>
 <img align="left" alt="mongodb" width="40px" src="https://skillicons.dev/icons?i=mongodb" style="padding-right:10px;"/>
-<img align="left" alt="linux" width="40px" src="https://skillicons.dev/icons?i=linux" style="padding-right:10px;"/>
-<img align="left" alt="github actions" width="40px" src="https://skillicons.dev/icons?i=githubactions" style="padding-right:10px;"/>
 
 <br><br><br>
+<img align="left" alt="linux" width="40px" src="https://skillicons.dev/icons?i=linux" style="padding-right:10px;"/>
+<img align="left" alt="github actions" width="40px" src="https://skillicons.dev/icons?i=githubactions" style="padding-right:10px;"/>
 <img align="left" alt="graphql" width="40px" src="https://skillicons.dev/icons?i=graphql" style="padding-right:10px;"/>
 <img align="left" alt="groovy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" style="padding-right:10px;" />
 
