@@ -98,6 +98,7 @@ const Alejandro = {
 # <h3 align="left">Currently learning</h3>
 <p align="left"> 
 
+<img align="left" alt="MySQL" width="40px" src="https://skillicons.dev/icons?i=mysql" style="padding-right:10px;" />
 <img align="left" alt="Next" width="40px" src="https://skillicons.dev/icons?i=nextjs"  style="padding-right:10px;" />
 <img align="left" alt="Postgres" width="40px" src="https://skillicons.dev/icons?i=postgresql" style="padding-right:10px;" />
 
