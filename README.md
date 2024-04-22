@@ -54,6 +54,15 @@ const Alejandro = {
 </p>
 <br />
 
+# <h3 align="left">NoSQL Data Bases</h3>
+<p align="left"> 
+
+<img align="left" alt="firebase" width="40px" src="https://skillicons.dev/icons?i=firebase" style="padding-right:10px;"/>
+ 
+</p>
+<br />
+
+
 # <h3 align="left">Technologies</h3>
 <p align="left"> 
   
