@@ -63,7 +63,7 @@ const Alejandro = {
 <br />
 
 
-# <h3 align="left">Technologies</h3>
+# <h3 align="left">Other Technologies</h3>
 <p align="left"> 
   
 <img align="left" alt="git" width="40px" src="https://skillicons.dev/icons?i=git" style="padding-right:10px;"/>
