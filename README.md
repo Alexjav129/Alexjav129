@@ -117,18 +117,19 @@ const Alejandro = {
 <p align="left"> 
 
 <img align="left" alt="nodejs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  style="padding-right:10px;" />
+<img align="left" alt="express" width="40px" src="https://skillicons.dev/icons?i=express" style="padding-right:10px;"/>
 <img align="left" alt="java" width="40px" src="https://skillicons.dev/icons?i=java" style="padding-right:10px;"/>
 <img align="left" alt="spring" width="40px" src="https://skillicons.dev/icons?i=spring" style="padding-right:10px;"/>
 <img align="left" alt="python" width="40px" src="https://skillicons.dev/icons?i=py" style="padding-right:10px;"/>
-<img align="left" alt="Next" width="40px" src="https://skillicons.dev/icons?i=nextjs"  style="padding-right:10px;" />
+
 
 
 <br><br><br>
 
+<img align="left" alt="Next" width="40px" src="https://skillicons.dev/icons?i=nextjs"  style="padding-right:10px;" />
 <img align="left" alt="Postgres" width="40px" src="https://skillicons.dev/icons?i=postgresql" style="padding-right:10px;" />
 <img align="left" alt="supabase" width="40px" src="https://skillicons.dev/icons?i=supabase" style="padding-right:10px;"/>
 <img align="left" alt="aws" width="40px" src="https://skillicons.dev/icons?i=aws" style="padding-right:10px;"/>
-<img align="left" alt="express" width="40px" src="https://skillicons.dev/icons?i=express" style="padding-right:10px;"/>
 <img align="left" alt="astro" width="40px" src="https://skillicons.dev/icons?i=astro" style="padding-right:10px;" />
 
 
