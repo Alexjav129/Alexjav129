@@ -129,7 +129,7 @@ const Alejandro = {
 <img align="left" alt="astro" width="40px" src="https://skillicons.dev/icons?i=astro" style="padding-right:10px;" />
 <img align="left" alt="java" width="40px" src="https://skillicons.dev/icons?i=java" style="padding-right:10px;"/>
 <img align="left" alt="spring" width="40px" src="https://skillicons.dev/icons?i=spring" style="padding-right:10px;"/>
-<img align="left" alt="python" width="40px" src="https://skillicons.dev/icons?i=spring" style="padding-right:10px;"/>
+<img align="left" alt="python" width="40px" src="https://skillicons.dev/icons?i=py" style="padding-right:10px;"/>
 
 
 
