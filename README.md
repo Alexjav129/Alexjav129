@@ -143,7 +143,6 @@ const Alejandro = {
 <img align="left" alt="prisma" width="40px" src="https://skillicons.dev/icons?i=prisma" style="padding-right:10px;"/>
 
 
-<br><br><br>
 
 </p>
 
