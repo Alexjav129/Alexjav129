@@ -94,8 +94,6 @@ const Alejandro = {
 # <h3 align="left">Operating Systems</h3>
 <p align="left"> 
 
-<img align="left" alt="Apple" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Apple" width="40px" src="https://skillicons.dev/icons?i=apple" style="padding-right:10px;" />
 <img align="left" alt="Windows" width="40px" src="https://skillicons.dev/icons?i=windows" style="padding-right:10px;" />
 
