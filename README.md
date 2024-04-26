@@ -144,12 +144,7 @@ const Alejandro = {
 
 
 <br><br><br>
-/* <img align="left" alt="graphql" width="40px" src="https://skillicons.dev/icons?i=graphql" style="padding-right:10px;"/>
-<img align="left" alt="linux" width="40px" src="https://skillicons.dev/icons?i=linux" style="padding-right:10px;"/>
-<img align="left" alt="github actions" width="40px" src="https://skillicons.dev/icons?i=githubactions" style="padding-right:10px;"/>
-<img align="left" alt="groovy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" style="padding-right:10px;" />
-*/
-  
+
 </p>
 
 
