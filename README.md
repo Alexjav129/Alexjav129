@@ -76,6 +76,7 @@ const Alejandro = {
 
 <img align="left" alt="vercel" width="40px" src="https://skillicons.dev/icons?i=vercel" style="padding-right:10px;" />
 <img align="left" alt="postman" width="40px" src="https://skillicons.dev/icons?i=postman" style="padding-right:10px;" />
+<img align="left" alt="npm" width="40px" src="https://skillicons.dev/icons?i=npm" style="padding-right:10px;" />
 <img align="left" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Markdown" width="40px" src="https://skillicons.dev/icons?i=md" style="padding-right:10px;" />
 <img align="left" alt="salesforce" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" style="padding-right:10px;" />
