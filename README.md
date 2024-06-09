@@ -82,6 +82,7 @@ const Alejandro = {
 
 <br><br><br>
 
+<img align="left" alt="anaconda" width="40px" src="https://skillicons.dev/icons?i=anaconda" style="padding-right:10px;" />
 <img align="left" alt="jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="chrome" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" style="padding-right:10px;"/>
