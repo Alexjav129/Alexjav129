@@ -95,7 +95,7 @@ const Alejandro = {
 
 <img align="left" alt="Markdown" width="40px" src="https://skillicons.dev/icons?i=md" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" style="padding-right:10px;"/>
-
+<img align="left" alt="gro" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" style="padding-right:10px;" />
 
 </p>
 <br><br>
