@@ -36,7 +36,6 @@ const Alejandro = {
 # <h3 align="left">Languages and frameworks</h3>
 <p align="left"> 
 
-
 <img align="left" alt="js" width="40px" src="https://skillicons.dev/icons?i=js" style="padding-right:10px;" />
 <img align="left" alt="React" width="40px" src="https://skillicons.dev/icons?i=react"  style="padding-right:10px;" />
 <img align="left" alt="Groovy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" style="padding-right:10px;" />
