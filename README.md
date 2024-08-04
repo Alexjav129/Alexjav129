@@ -78,7 +78,7 @@ const Alejandro = {
 <img align="left" alt="idea" width="40px" src="https://skillicons.dev/icons?i=idea" style="padding-right:10px;"/>
 <img align="left" alt="vite" width="40px" src="https://skillicons.dev/icons?i=vite" style="padding-right:10px;" />
 
-<br><br><br>
+<br><br>
 
 <img align="left" alt="vercel" width="40px" src="https://skillicons.dev/icons?i=vercel" style="padding-right:10px;" />
 <img align="left" alt="sourcetree" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" style="padding-right:10px;" />
@@ -87,7 +87,7 @@ const Alejandro = {
 <img align="left" alt="postman" width="40px" src="https://skillicons.dev/icons?i=postman" style="padding-right:10px;" />
 
 
-<br><br><br>
+<br><br>
 
 <img align="left" alt="anaconda" width="40px" src="https://skillicons.dev/icons?i=anaconda" style="padding-right:10px;" />
 <img align="left" alt="jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
@@ -95,7 +95,7 @@ const Alejandro = {
 <img align="left" alt="salesforce" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Markdown" width="40px" src="https://skillicons.dev/icons?i=md" style="padding-right:10px;" />
 
-<br><br><br>
+<br><br>
 
 <img align="left" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" style="padding-right:10px;"/>
 
@@ -136,7 +136,7 @@ const Alejandro = {
 
 
 
-<br><br><br>
+<br><br>
 
 <img align="left" alt="Next" width="40px" src="https://skillicons.dev/icons?i=nextjs"  style="padding-right:10px;" />
 <img align="left" alt="Postgres" width="40px" src="https://skillicons.dev/icons?i=postgresql" style="padding-right:10px;" />
@@ -146,7 +146,7 @@ const Alejandro = {
 
 
 
-<br><br><br>
+<br><br>
 
 <img align="left" alt="mongodb" width="40px" src="https://skillicons.dev/icons?i=mongodb" style="padding-right:10px;"/>
 <img align="left" alt="docker" width="40px" src="https://skillicons.dev/icons?i=docker" style="padding-right:10px;"/>
