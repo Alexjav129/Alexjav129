@@ -22,7 +22,7 @@ const Alejandro = {
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alexjav129](https://github.com/Alexjav129)
 
-- 🏅 Favorite Tech Stack:  ***React.js, Tailwind, Firebase, JavaScript, Vite and Vercel***
+- 🏅 Favorite Tech Stack:  ***React.js, Tailwind, Firebase, MySQL, JavaScript, Vite and Vercel***
 
 - 💬 Ask me about **React.js, Tailwind, Firebase, JavaScript, JSX, ES6, MySQL, Groovy, CSS, CSS-Flexbox, CSS-Grid, BOOTSTRAP, SASS,  Vercel, FIGMA, GIT, Github, SEO, BEM, Responsive Web Design, Project Management Software, Agile Methodologies, AzureDevOps, SourceTree, Scrum, Postman, Npm**
 
