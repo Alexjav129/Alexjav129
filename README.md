@@ -39,9 +39,13 @@ const Alejandro = {
 <img align="left" alt="js" width="40px" src="https://skillicons.dev/icons?i=js" style="padding-right:10px;" />
 <img align="left" alt="React" width="40px" src="https://skillicons.dev/icons?i=react"  style="padding-right:10px;" />
 <img align="left" alt="Groovy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="40px" src="https://skillicons.dev/icons?i=mysql" style="padding-right:10px;" />
 <img align="left" alt="css" width="40px" src="https://skillicons.dev/icons?i=css" style="padding-right:10px;" />
 <img align="left" alt="html" width="40px" src="https://skillicons.dev/icons?i=html" style="padding-right:10px;" />
+
+<br><br><br>
+
+<img align="left" alt="MySQL" width="40px" src="https://skillicons.dev/icons?i=mysql" style="padding-right:10px;" />
+
   
 </p> 
 <br />
