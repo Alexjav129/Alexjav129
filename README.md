@@ -132,18 +132,19 @@ const Alejandro = {
 <img align="left" alt="typescript" width="40px" src="https://skillicons.dev/icons?i=ts"  style="padding-right:10px;" />
 <img align="left" alt="mongodb" width="40px" src="https://skillicons.dev/icons?i=mongodb" style="padding-right:10px;"/>
 <img align="left" alt="python" width="40px" src="https://skillicons.dev/icons?i=py" style="padding-right:10px;"/>
-<img align="left" alt="java" width="40px" src="https://skillicons.dev/icons?i=java" style="padding-right:10px;"/>
-<img align="left" alt="spring" width="40px" src="https://skillicons.dev/icons?i=spring" style="padding-right:10px;"/>
+<img align="left" alt="django" width="40px" src="https://skillicons.dev/icons?i=django" style="padding-right:10px;"/>
+<img align="left" alt="aws" width="40px" src="https://skillicons.dev/icons?i=aws" style="padding-right:10px;"/>
 
 
 
 <br><br><br>
 
 <img align="left" alt="Next" width="40px" src="https://skillicons.dev/icons?i=nextjs"  style="padding-right:10px;" />
+<img align="left" alt="java" width="40px" src="https://skillicons.dev/icons?i=java" style="padding-right:10px;"/>
+<img align="left" alt="spring" width="40px" src="https://skillicons.dev/icons?i=spring" style="padding-right:10px;"/>
 <img align="left" alt="Postgres" width="40px" src="https://skillicons.dev/icons?i=postgresql" style="padding-right:10px;" />
 <img align="left" alt="supabase" width="40px" src="https://skillicons.dev/icons?i=supabase" style="padding-right:10px;"/>
-<img align="left" alt="aws" width="40px" src="https://skillicons.dev/icons?i=aws" style="padding-right:10px;"/>
-<img align="left" alt="astro" width="40px" src="https://skillicons.dev/icons?i=astro" style="padding-right:10px;" />
+
 
 
 
@@ -153,7 +154,7 @@ const Alejandro = {
 <img align="left" alt="kubernetes" width="40px" src="https://skillicons.dev/icons?i=kubernetes" style="padding-right:10px;"/>
 <img align="left" alt="vue" width="40px" src="https://skillicons.dev/icons?i=vue" style="padding-right:10px;"/>
 <img align="left" alt="prisma" width="40px" src="https://skillicons.dev/icons?i=prisma" style="padding-right:10px;"/>
-
+<img align="left" alt="astro" width="40px" src="https://skillicons.dev/icons?i=astro" style="padding-right:10px;" />
 
 
 </p>
