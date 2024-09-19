@@ -117,8 +117,9 @@ const Alejandro = {
 
 # <h3 align="left">Currently learning</h3>
 <p align="left"> 
+<img align="left" alt="nodejs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  style="padding-right:10px;" />
+<img align="left" alt="express" width="40px" src="https://skillicons.dev/icons?i=express" style="padding-right:10px;"/>
 
-<img align="left" alt="typescript" width="40px" src="https://skillicons.dev/icons?i=ts"  style="padding-right:10px;" />
 
 
 </p>
@@ -128,11 +129,11 @@ const Alejandro = {
 # <h3 align="left">Would like to learn</h3>
 <p align="left"> 
 
-<img align="left" alt="nodejs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  style="padding-right:10px;" />
-<img align="left" alt="express" width="40px" src="https://skillicons.dev/icons?i=express" style="padding-right:10px;"/>
+<img align="left" alt="typescript" width="40px" src="https://skillicons.dev/icons?i=ts"  style="padding-right:10px;" />
+<img align="left" alt="mongodb" width="40px" src="https://skillicons.dev/icons?i=mongodb" style="padding-right:10px;"/>
+<img align="left" alt="python" width="40px" src="https://skillicons.dev/icons?i=py" style="padding-right:10px;"/>
 <img align="left" alt="java" width="40px" src="https://skillicons.dev/icons?i=java" style="padding-right:10px;"/>
 <img align="left" alt="spring" width="40px" src="https://skillicons.dev/icons?i=spring" style="padding-right:10px;"/>
-<img align="left" alt="python" width="40px" src="https://skillicons.dev/icons?i=py" style="padding-right:10px;"/>
 
 
 
@@ -148,7 +149,6 @@ const Alejandro = {
 
 <br><br><br>
 
-<img align="left" alt="mongodb" width="40px" src="https://skillicons.dev/icons?i=mongodb" style="padding-right:10px;"/>
 <img align="left" alt="docker" width="40px" src="https://skillicons.dev/icons?i=docker" style="padding-right:10px;"/>
 <img align="left" alt="kubernetes" width="40px" src="https://skillicons.dev/icons?i=kubernetes" style="padding-right:10px;"/>
 <img align="left" alt="vue" width="40px" src="https://skillicons.dev/icons?i=vue" style="padding-right:10px;"/>
