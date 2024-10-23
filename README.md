@@ -24,7 +24,15 @@ const Alejandro = {
 
 - 🏅 Favorite Tech Stack:  ***React.js, Tailwind, Firebase, MySQL, JavaScript, Vite and Vercel***
 
-- 💬 Ask me about **React.js, Tailwind, Firebase, JavaScript, JSX, ES6, MySQL, Groovy, CSS, CSS-Flexbox, CSS-Grid, BOOTSTRAP, SASS,  Vercel, FIGMA, GIT, Github, SEO, BEM, Responsive Web Design, Project Management Software, Agile Methodologies, AzureDevOps, SourceTree, Scrum, Postman, Npm**
+- 💬 Ask me about **
+- Node.js & Express.js
+- React.js
+- JavaScript (ES6)
+- TailwindCSS / CSS / SASS
+- MySQL
+- Groovy
+- Firebase
+**
 
 - 📫 How to reach me **Linkedin**
 
